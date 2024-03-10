@@ -1,0 +1,3 @@
+Esse é o primeiro reporte desde a confirmação do projeto. Os orçamentos foram definidos para a construção e execução do lançamento da sonda Prophet, primeira do tipo LightSail com sistema de desaceleração em trânsito; nós da equipe Kairos estamos grandemente entusiasmados e esperamos que essa seja a centelha que levará a humanidade ao seu estágio interestelar. 
+
+[Calebe Lino](../../character/Calebe.know), do Centro Avançado de Pesquisas para Missões Interestelares ([ARIM](../../guild/ARIM.know)). 
